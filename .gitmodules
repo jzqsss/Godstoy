@@ -1,0 +1,3 @@
+[submodule "Godstoy/vendor/spdlog"]
+	path = Godstoy/vendor/spdlog
+	url = https://github.com/gabime/spdlog
